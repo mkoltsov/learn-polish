@@ -1,0 +1,26 @@
+-Formal
+Dzien dobry - good afternoon
+Witam - hello
+Dobry wieczor - good evening
+Do widzenia - see you
+Dobranoc - good night
+-Informal
+Czesc - hi
+Czesc/Na razie - bye
+Do jutra - see you tomorrow
+Do zobaczenia - see you
+
+Co sIychac - what's up?
+Jak sie masz - how are you?
+Jak leci - How are you?
+Co u cibie - What's with you?
+
+dobrze - good 
+w porzadku
+bardzo dobrze
+swietnie - prety good
+tak sobie - so-so
+fatalnie - bad
+
+..., a ty?
+..., a u cebie?
